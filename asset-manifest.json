@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Phone-Ecom/static/css/main.2b3541ec.css",
+    "main.js": "/Phone-Ecom/static/js/main.cec90063.js",
+    "static/media/About.jpg": "/Phone-Ecom/static/media/About.0b5cb6d0caa3affee716.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Phone-Ecom/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/img-4.jpg": "/Phone-Ecom/static/media/img-4.abbbc38faf454dd68de0.jpg",
+    "static/media/fontawesome-webfont.eot": "/Phone-Ecom/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Phone-Ecom/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Phone-Ecom/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/img-12.jpg": "/Phone-Ecom/static/media/img-12.122bbc41d7acbb153f66.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Phone-Ecom/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/img-1.jpg": "/Phone-Ecom/static/media/img-1.4fd8bc7f6e1efaf8dea1.jpg",
+    "static/media/img-3.jpg": "/Phone-Ecom/static/media/img-3.72d8f47a37877e3d7cd7.jpg",
+    "static/media/img-8.jpg": "/Phone-Ecom/static/media/img-8.0152871937a2b8195a24.jpg",
+    "static/media/img-5.jpg": "/Phone-Ecom/static/media/img-5.9b1e9f76187f1c3f9c64.jpg",
+    "static/media/img-7.jpg": "/Phone-Ecom/static/media/img-7.ccf21e02c69c8e5b81c3.jpg",
+    "static/media/img-6.jpg": "/Phone-Ecom/static/media/img-6.ff52ec6155d4b57d3232.jpg",
+    "static/media/img-2.jpg": "/Phone-Ecom/static/media/img-2.6c637e161591ac6f68c2.jpg",
+    "static/media/img-9.jpg": "/Phone-Ecom/static/media/img-9.9a5ebcf36ee071f1ebdf.jpg",
+    "static/media/img-10.jpg": "/Phone-Ecom/static/media/img-10.7bf073d92b9865c9807f.jpg",
+    "index.html": "/Phone-Ecom/index.html",
+    "main.2b3541ec.css.map": "/Phone-Ecom/static/css/main.2b3541ec.css.map",
+    "main.cec90063.js.map": "/Phone-Ecom/static/js/main.cec90063.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b3541ec.css",
+    "static/js/main.cec90063.js"
+  ]
+}
